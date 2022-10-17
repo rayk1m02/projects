@@ -3,7 +3,7 @@ package calc;
 /**
  * CalculatorFace.java
  *
- * Interface CalculatorFace to define how the 
+ * Interface CalculatorFace to define how user can interact with Calculator.
  */
 
 import java.awt.event.ActionListener;
