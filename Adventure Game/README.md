@@ -1,5 +1,9 @@
 # Adventure Time
 
+Context:
+
+A Java project created between a classmate and myself. My main responsibility was implementing commands by making sure the player can seemlessly use items and commit actions. 
+
 Information about the game: 
 
 The player is a Wheaton College CS student in Meyer Science Building late at night. The player is in a broken simulation where monstes, NPCs, and items exists.
