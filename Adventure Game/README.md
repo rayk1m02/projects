@@ -1,14 +1,12 @@
 # Adventure Time
 
-Information about our game: 
+Information about the game: 
 
-You are a Wheaton College CS student in Mey-Sci at 1am. You are here because of a broken simulation in the matrix and there are monstes, NPCs, and items present in this world.
+The player is a Wheaton College CS student in Meyer Science Building late at night. The player is in a broken simulation where monstes, NPCs, and items exists.
 
-The objective of this game is to escape the simulation through the Mey-Sci Central Computer. You do this by finding the secret USB port and escaping. Be warned, you can die!
+The objective of this game is to escape the simulation by using the Central Computer that is located in a locked room. The player will need to find a key and USB to access the room, then the computer. Be warned, the player can die in the game!
 
-There are some professors in the building. They will give you information and some of them will give you items. Door behaves differently. Some doors are locked until you "unlock" them by using a key in the correct room. Some doors are more interesting. If you fight with the monsters, they will attack back to kill you. The Mastodon who holds the USB you need is really strong. You have to learn the Commands and find items as you move through Mey-Sci to make yourself strong enough to beat the Mastodon. There are also roamers who moving around the world randomly, but if you see them, they cannot move anymore. Go get them! Some of them have valuable loots!
-
-
+In the building, there are professors who provide critical information as well as items to use. Some doors are free to access and others need to be unlocked with a key. As for monsters there exists roamers, monsters that move in between rooms, so you never know when you will encounter one! One of the monsters is a Mastadon who is very powerful and holds the USB. As a player, the user must learn the commands, fight monsters, and use items to move through the building and win the game by escaping. 
 
 Here are the list of commands used in the game along with necessary details.
 
