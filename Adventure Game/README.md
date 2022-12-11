@@ -6,7 +6,7 @@ A Java project created between a classmate and myself. My main responsibility wa
 
 Information about the game: 
 
-The player is a Wheaton College CS student in Meyer Science Building late at night. The player is in a broken simulation where monstes, NPCs, and items exists.
+The player is a Wheaton College CS student in Meyer Science Building late at night. The player is in a broken simulation where monsters, NPCs, and items exists.
 
 The objective of this game is to escape the simulation by using the Central Computer that is located in a locked room. The player will need to find a key and USB to access the room, then the computer. Be warned, the player can die in the game!
 
