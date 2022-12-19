@@ -3,7 +3,7 @@ package calc;
 /**
  * CalculatorFace.java
  *
- * Interface CalculatorFace to define how the 
+ * Interface CalculatorFace 
  *
  */
 
